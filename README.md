@@ -1,2 +1,2 @@
 # AIA_Project
-predict income
+income prediction
